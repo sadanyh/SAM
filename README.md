@@ -1,0 +1,2 @@
+# SAM
+ Sentiment Aware Metric
